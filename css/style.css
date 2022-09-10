@@ -1,0 +1,48 @@
+li{
+    color: red;
+}
+
+.text3{
+    color: blueviolet;
+}
+
+#test{
+    color: green;
+}
+
+div.yellow{
+    color: yellow;
+}
+
+.yellow.red{
+    color: orange;
+}
+
+.contents,
+.twoclass{
+    color: blue;
+}
+
+.tagp p{
+    color: chocolate;
+}
+
+.tagp .inside_tagp{
+    color: chartreuse;
+}
+
+.manydiv *{
+    color: rgb(224, 46, 224);
+}
+
+.inherit > p{
+    color: darkgreen;
+}
+
+.inherit ~ span {
+    color: tomato;
+}
+
+.inherit + p{
+    color:violet;
+}
